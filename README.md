@@ -1,1 +1,3 @@
-This app was developed as part of Lab 4 of CS646.
+# lights-out-app-with-navbar
+
+The An updated version of the Lights Out app using fragments and with a new navigation menu built from the tutorials in the CS-360: Mobile Architecture and Programming course book.
